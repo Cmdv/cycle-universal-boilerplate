@@ -1,7 +1,8 @@
-# Cycle-Starter
-This is a sample project to get started with Cycle.js
+# Cycle Boilerplate
+# Work in Progress 
+trying to get a simple webpack boilerplate for Cycle
 
-### Getting up and running
+### Getting started
 - Install dependencies
 ```
   npm install
@@ -10,9 +11,7 @@ This is a sample project to get started with Cycle.js
 ```
   npm start
 ```
-- Build and run Isomorphic/production server
+- Build and run Universal/production server
 ```
   npm run server
 ```
-
-W.I.P. This is nowhere near a complete state.
