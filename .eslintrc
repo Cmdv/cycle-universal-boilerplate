@@ -1,0 +1,25 @@
+
+{
+  "extends": "airbnb/base",
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+
+  "rules": {
+    "no-var": 0,
+    "vars-on-top": 0,
+    "no-multi-spaces": 0,
+    "react/no-did-mount-set-state": 0,
+    "id-length": [
+      2,
+      {
+        "exceptions": [
+          "$",
+          "_"
+        ]
+      }
+    ]
+  },
+}

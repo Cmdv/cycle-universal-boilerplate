@@ -1,0 +1,22 @@
+{
+  "stage": 0,
+  "env": {
+    "production": {
+      "plugins": [
+        "flow-comments",
+        "closure-elimination"
+      ],
+      "blacklist": [
+        "flow"
+      ]
+    },
+    "development": {
+      "plugins": [
+        "typecheck"
+      ]
+    }
+  },
+  "blacklist": [
+    "react"
+  ]
+}
