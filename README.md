@@ -3,11 +3,8 @@
 trying to get a simple webpack boilerplate for Cycle
 
 ### Getting started
-- Install dependencies
-```
-  npm install
-```
-- Run webpack-dev-server
+
+- Start the webpack-dev-server
 ```
   npm start
 ```
