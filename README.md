@@ -1,4 +1,4 @@
-# Cycle Boilerplate
+# Cycle Universal Boilerplate
 # Work in Progress 
 trying to get a simple webpack boilerplate for Cycle
 
