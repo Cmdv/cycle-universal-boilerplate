@@ -1,8 +1,8 @@
 # Cycle Universal Boilerplate
 # Work in Progress 
-trying to get a simple webpack boilerplate for Cycle
+A simple webpack boilerplate for Cycle
 
-### Getting started
+### Getting things up and running
 
 - Start the webpack-dev-server
 ```
